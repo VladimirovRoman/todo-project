@@ -7,11 +7,9 @@
 	padding: 10px 15px;
 	border: none;
 	border-radius: 5px;
-	
 }
 
 .button:hover {
-	background-color: rgba(141, 0, 0, 0.102);
+	background-color: beige;
 	transform: translateY(-2px);
-	
 }
